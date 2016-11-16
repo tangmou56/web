@@ -1,0 +1,44 @@
+h2{
+	color : green;
+	font-family: "Arial";
+}
+
+h1{
+	background-color : lightblue;
+	
+}
+
+
+ul.jour{
+	color:lightblue;
+	font-family:"Trebuchet MS";
+	background-color:blue;
+	font-weight:bold;
+}
+
+ul.menu{
+	list-style-image:url(fleche15.gif);
+	color:black;
+	background-color: lightblue;
+	font-family:"Cambria";
+	font-size:11pt;
+	font-weight:normal;
+}
+
+table.e{
+	border-color: DarkGrey ;
+	border-style: dashed;
+	border-collapse:collapse;
+}
+
+th,td{
+	
+	border:thin solid black;
+	padding:10px;
+	text-align:center;
+}
+
+.violet{
+	background-color:purple;
+	color: white;
+}
